@@ -1,0 +1,11 @@
+/home/onteriowright/workspace/ListIntro/bin/Debug/netcoreapp3.1/ListIntro
+/home/onteriowright/workspace/ListIntro/bin/Debug/netcoreapp3.1/ListIntro.deps.json
+/home/onteriowright/workspace/ListIntro/bin/Debug/netcoreapp3.1/ListIntro.runtimeconfig.json
+/home/onteriowright/workspace/ListIntro/bin/Debug/netcoreapp3.1/ListIntro.runtimeconfig.dev.json
+/home/onteriowright/workspace/ListIntro/bin/Debug/netcoreapp3.1/ListIntro.dll
+/home/onteriowright/workspace/ListIntro/bin/Debug/netcoreapp3.1/ListIntro.pdb
+/home/onteriowright/workspace/ListIntro/obj/Debug/netcoreapp3.1/ListIntro.csprojAssemblyReference.cache
+/home/onteriowright/workspace/ListIntro/obj/Debug/netcoreapp3.1/ListIntro.AssemblyInfoInputs.cache
+/home/onteriowright/workspace/ListIntro/obj/Debug/netcoreapp3.1/ListIntro.AssemblyInfo.cs
+/home/onteriowright/workspace/ListIntro/obj/Debug/netcoreapp3.1/ListIntro.dll
+/home/onteriowright/workspace/ListIntro/obj/Debug/netcoreapp3.1/ListIntro.pdb
